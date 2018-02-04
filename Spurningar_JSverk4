@@ -1,0 +1,3 @@
+2. Hann gerir function teacher og getur gert person.call sem segir að hægt sé að kalla í function annarstaðar en í sama context en ef þú vilt að teacher tekur sama parameter og person þá notarðu call().
+
+3.
